@@ -1,0 +1,3 @@
+# No external packages required.
+# (Optional) install psutil to see total memory on the Dashboard:
+# psutil>=5.9
